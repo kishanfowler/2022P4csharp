@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace gitdemo
+namespace Csharp2Opdrachten
 {
     class Program
     {
